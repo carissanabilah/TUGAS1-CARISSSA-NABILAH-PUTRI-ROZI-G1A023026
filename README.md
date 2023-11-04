@@ -20,8 +20,7 @@
    ```
 
 4. Berikut merupakan hasil outputnya
-   ![Screenshot (390)](https://github.com/carissanabilah/TUGAS1-CARISSSA-NABILAH-PUTRI-ROZI-G1A023026/assets/147407404/2af5eaca-e676-4a4c-b5bd-d8142d328553)
-
+   ![Screenshot (390)](https://github.com/carissanabilah/TUGAS1-CARISSSA-NABILAH-PUTRI-ROZI-G1A023026/assets/147407404/1081a760-b497-479d-8eee-a1b02455abf9)
 
 # Tugas 2
 1. Membaca input dari pengguna dan penamaan variabel yaitu number menggunakan type data integer
@@ -46,6 +45,8 @@ number = scanner.nextInt();
             number = scanner.nextInt();
 }
    ```
+4. Berikut merupakan hasil outputnya
+   ![Screenshot (391)](https://github.com/carissanabilah/TUGAS1-CARISSSA-NABILAH-PUTRI-ROZI-G1A023026/assets/147407404/3b2aaf89-823c-4a9f-876b-fa50c400fb6d)
 
 ##Tugas 3
 1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 15 3 untuk tanggal 15 Maret). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
@@ -90,6 +91,9 @@ number = scanner.nextInt();
             return null;
         }
    ```
+5. Berikut merupakan hasil outputnya
+   ![Screenshot (392)](https://github.com/carissanabilah/TUGAS1-CARISSSA-NABILAH-PUTRI-ROZI-G1A023026/assets/147407404/87de494d-ef29-4d33-81b1-31d7565779d3)
+
 ## Tugas 4
 1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
 ```sh
@@ -100,3 +104,6 @@ number = scanner.nextInt();
             System.out.println(numbers[i]);
         }
    ```
+2. Berikut merupakan hasil outputnya
+   ![Screenshot (394)](https://github.com/carissanabilah/TUGAS1-CARISSSA-NABILAH-PUTRI-ROZI-G1A023026/assets/147407404/797244ac-f39c-416e-ad41-9c5664a798d6)
+

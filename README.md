@@ -19,6 +19,10 @@
 }
    ```
 
+4. Berikut merupakan hasil outputnya
+   ![Screenshot (390)](https://github.com/carissanabilah/TUGAS1-CARISSSA-NABILAH-PUTRI-ROZI-G1A023026/assets/147407404/2af5eaca-e676-4a4c-b5bd-d8142d328553)
+
+
 # Tugas 2
 1. Membaca input dari pengguna dan penamaan variabel yaitu number menggunakan type data integer
 ```sh
